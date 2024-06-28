@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-ffos-stdlib ={ git = "https://github.com/croakexciting/ffos-stdlib.git"}
+ffos-stdlib = { git = "https://github.com/croakexciting/ffos-stdlib.git"}
